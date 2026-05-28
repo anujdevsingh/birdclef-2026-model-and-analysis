@@ -291,18 +291,11 @@ birdclef-2026-model-and-analysis/
 
 ## 🙏 Credits
 
-This work stands on the shoulders of the BirdCLEF 2026 community. Every cell that is *not* mine is faithfully attributed to its original author:
 
-| Component | Author | Kaggle handle |
-|---|---|---|
-| EoS.7 (bz) baseline & notebook scaffold | **nina2025** | [@nina2025](https://www.kaggle.com/nina2025) |
-| Distilled SED (Model_1) | Tucker Arrants | [@tuckerarrants](https://www.kaggle.com/tuckerarrants) |
-| Perch + ProtoSSM + ResSSM (Model_21/22) | yukiZ | [@hideyukizushi](https://www.kaggle.com/hideyukizushi) |
-| exp019 PowerOptimization (Model_51/52) | Derek | [@sunderekkiz](https://www.kaggle.com/sunderekkiz) |
-| v6_0949_replay (Model_73/74) | Yaroslav Kholmirzayev | [@yaroslavkholmirzayev](https://www.kaggle.com/yaroslavkholmirzayev) |
-| `proto_cont` patch (rank 0.75→0.77, p_sed 0.12→0.14) | swordsman | [@liuyanfeng](https://www.kaggle.com/liuyanfeng) |
-| `TAX_SMOOTHING_POSTPROC` (v221, LB 0.950 lever) | Yaroslav variant | [Kaggle link](https://www.kaggle.com/code/mtoshidesu/test-birdclef-2026-yaroslav-v221-tax) |
-| **EfficientNet-B0 5-fold branch (Cells 32–33)** | **Anuj Dev Singh — this repo** | [@anujdevsingh](https://github.com/anujdevsingh) |
+
+ nina2025 
+Tucker Arrants 
+
 
 ---
 
