@@ -15,7 +15,9 @@
 </div>
 
 ---
-
+## 📓 View Notebook
+> GitHub's renderer can't handle large notebooks.
+> **[View full notebook on nbviewer →](https://nbviewer.org/github/anujdevsingh/birdclef-2026-model-and-analysis/blob/main/birdclef-2026-eos-7-bz-efficientnet-b0.ipynb)**
 ## 📌 Overview
 
 This repository contains my iteration on the **BirdCLEF+ 2026** competition — an acoustic species-identification challenge over **234 bird species** of the Pantanal wetlands (South America). The task is to predict per-species presence probabilities for every 5-second window of 1-minute test soundscapes, scored by **macro ROC-AUC**.
