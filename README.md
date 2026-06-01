@@ -301,12 +301,11 @@ Tucker Arrants
 
 ## 👤 Author
 
-**Anuj Dev Singh** — Delhi, India
-BS Data Science · IIT Madras
+**Anuj Dev Singh** 
+AI Engineer · IIT Madras
 
 - 🌐 [codewithanuj.com](https://codewithanuj.com)
 - 💻 [GitHub: @anujdevsingh](https://github.com/anujdevsingh)
-- 📧 anujdev9928@gmail.com
 
 ---
 
